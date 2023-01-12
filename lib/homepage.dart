@@ -104,6 +104,7 @@ class _HomePageState extends State<HomePage> {
                                 }
                                 else {
                                   song[no]['play'] = false;
+
                                 }
                               }
                               song[i]['play'] = !song[i]['play'];
